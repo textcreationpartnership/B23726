@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Visitation of love to the inhabitants of London or any other place where it may come.</title>
+            <author>Green, William, 17th Cent.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23726</idno><idno type="EEBO-CITATION">11146928</idno>
+  <idno type="VID">204831</idno>
+  <idno type="EEBO-PROQUEST">2240887404</idno>
+  
+            <idno type="STC">Wing G1814B</idno>
+            <idno type="OCLC">11146928</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1424:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Visitation of love to the inhabitants of London or any other place where it may come.</title>
+                  <author>Green, William, 17th Cent.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed : William Green.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:204831:1"/>
+            <head>VISITATION Of Love unto the Inhabitants of LONDON, Or any other place where it may come.</head>
+            <p>IT being a warning more unto the many which they have had, now in this their day, by many of the true and faithful servants of the Lord with wholesome advice unto her Rulers from the highest to the lowest, to forewarn them that they no longer withstand the day of their visitation, but to turn unto the Lord before his fierce indignation break forth against them, and the day of their visitation pass over their heads which cannot be again recalled. <hi>W.G.</hi>
+            </p>
+            <p>Many have been the testimonies which have been borne by the servants of the Lord, from the one spirit of truth unto thine inhabitants, of the things that pertain and belong unto the souls everlasting happiness, and many times have ye been warned and beseeched to turn from sin, and all uncleaness, unto the Lord, and large hath been the day of your visitation in which the servants of the Lord have run from time to time, and from day to day, to invite you to that principle of God in you, that beats witness for God against all that is contrary unto his spiritual appearing in the light of his Son Christ Jesus, which is broken forth in this our day, for to destroy the works of darkness and brings into the marvelous light all those that obeys and followeth its leadings, Oh therefore in the bowels of tender love unto the seed of God in you, do I warn and call unto you all to come and meet the Lord in the way of his judge<g ref="char:EOLhyphen"/>ments, and give up all that unto the righteous judgements of the Lord God of heaven and earth, Oh what a lamentation shall I take up for you who yet withstand the day of your visi<g ref="char:EOLhyphen"/>tation, Oh no longer withstand the Lord nor his messengers which he hath sent with their lives freely given up unto God to proclaim liberty to the seed thats held in captivity by the Divel the Prince of the power of darkness, that ruleth in the hearts of the wicked, which seed judgeth and condemneth for all manner of sin and iniquity which by it is greived and oppressed exceedingly; Ah if you forsake not this oppressing of this noble seed which God hath raised up in many to bear witness for him against all ungodliness whatsoever, which rea<g ref="char:EOLhyphen"/>cheth unto the seed in you, but ye through stubbornness gainesay it, because its mean and contemptible in your own esteem, and certainly if you abide in gainsaying and smiteing the servants of the Lord, the hand of God will turn against you, and he will bring you down to the earth with shame, and you shall perish in your gainsaying, as <hi>Korah, Dathan</hi> and <hi>Abiram</hi> did who gainsayed <hi>Moses</hi> and <hi>Aron,</hi> yea without mercy shall ye be rooted out never again to be planted, therefore ye that are in Authority to do justice, consider the grievous oppressi<g ref="char:EOLhyphen"/>ons of the innocent and harmeless, who for conscience sake suffer sore beatings and stoneings, and blood shed for the exercise of their conscience to Godward only, and for waiting upon, and worshiping of him in spirit and truth: Oh lay this to heart all ye in Authority be ye ad<g ref="char:EOLhyphen"/>vised, and take heed unto your selves, for of a truth the Lord is with this people which are called in scorn Quakers, and in his life and power he appears amongst them, and this assured<g ref="char:EOLhyphen"/>ly know that if ye fight against the appearance of God in them, ye must never expect to pros<g ref="char:EOLhyphen"/>per, but blasting will come upon you, and ye will be a hissing and by-word to Generations to come. Therefore consider and be wise and merciful if ye expect mercy of the Lord, and let his people alone in the exercise of their consciences towards the Lord, and take off the burthen of oppression, and then it may be well with you, but if not then the Lord will cease to strive with you, and the day of your visitation will pass from you, and then shall sorrow of heart come upon you &amp; leaneness of soul which now wallow in your fatness, and great shall be the cry amongst you when the day of your visitation is gone over you which cannot be again recalled. By one that fears the Lord and not man who opposeth him in his spiritual appea<g ref="char:EOLhyphen"/>ring, who is a witness for God against all manner of wickedness, and singly gives my testimo<g ref="char:EOLhyphen"/>ny against all oppression, with the rest of my brethren, which testimony for God if thereun<g ref="char:EOLhyphen"/>to called I can seal with my blood, who is called <gap reason="blank" resp="#oxf" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>William Green.</hi>
+            </p>
+            <p>Thus in obedience unto the Lord and my conscience unto you all have I cleared, so whe<g ref="char:EOLhyphen"/>ther you will hear or forbear, my peace is with the Lord, for he laid it upon me to warn you, signifying by his spirit unto me, that he with his presence and power would attend me and support me in bearing of my testimony for his name sake (and that nothing shall come unto me but what should make for his glory, and the remainer he would restrain, and innocently do I lie down in the will of the Lord, having peace with him, and unity with all that fear his name.</p>
+            <closer>
+               <dateline>
+                  <hi>London</hi>
+                  <date>
+                     <hi>the</hi> 12 <hi>of the</hi> 10th. <hi>month.</hi> 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for M. W.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
